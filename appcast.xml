@@ -3,12 +3,12 @@
     <channel>
         <title>NotchFlow</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 23 Jul 2025 22:39:40 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Thu, 24 Jul 2025 14:07:35 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hbshih/NotchFlow-releases/releases/download/prod/NotchFlow.dmg" length="62367427" type="application/octet-stream" sparkle:edSignature="Wrqke05uneXN936TTCd2/pMY/FToeXms4CP7UOJvPdUyuUTIQeX/Gswg3rPcpoKNYPbD3kiiLI7I5ue9SzOiBA=="/>
+            <enclosure url="https://github.com/hbshih/NotchFlow-releases/releases/download/prod/NotchFlow.dmg" length="62387210" type="application/octet-stream" sparkle:edSignature="VigllLCmlttgbl6yknSbLVvpPna+/W3KUchf5rGuzm3sgGLyZQ/X5Bjq/iIVU4kLQbyOQkY/rRxP87+1sAz8CA=="/>
         </item>
     </channel>
 </rss>
